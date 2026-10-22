@@ -1,0 +1,35 @@
+UNIVERSITY DATA WAREHOUSE OLAP SUMMARY REPORT
+Student Roll No: 23ME1A5449 | Guide: Mr. K. Naresh Babu
+======================================================================
+
+1. ROLL-UP ANALYSIS:
+               College                              Department  Total_Evaluations  Avg_Marks  Avg_Attendance_Pct  Avg_LMS_Hours  Pass_Pct
+College of Engineering Electronics & Communication Engineering                 17      74.94               82.08          24.40     100.0
+College of Engineering    Electrical & Electronics Engineering                  9      74.89               80.57          20.08     100.0
+College of Engineering                  Mechanical Engineering                 32      73.03               77.49          20.43     100.0
+College of Engineering          Computer Science & Engineering                 78      71.19               77.57          21.25     100.0
+
+2. CANDIDATE DRILL-DOWN (23ME1A5449):
+   Roll_No      Student_Name Course_Code                          Course_Title  Internal_30  External_70  Total_100  Grade_Points  Att_Pct  LMS_Score
+23ME1A5449 Bhavani Prasad K.     CAD-403 Computer Aided Design & Manufacturing         28.0         65.0       93.0          10.0     75.9       85.1
+23ME1A5449 Bhavani Prasad K.     DMW-401             Data Mining & Warehousing         26.0         50.0       76.0           8.0     82.5       98.8
+23ME1A5449 Bhavani Prasad K.     THM-402                Applied Thermodynamics         23.0         66.0       89.0           9.0     95.5       87.7
+
+3. SEMESTER SLICE:
+                             Department  Enrolled_Students  Semester_Avg_Marks  Avg_LMS_Watch_Hours  Avg_Attendance
+         Computer Science & Engineering                 14               70.00                20.38           77.36
+   Electrical & Electronics Engineering                  1               76.50                39.02           73.70
+Electronics & Communication Engineering                  7               73.71                19.10           78.06
+                 Mechanical Engineering                  3               73.00                21.19           80.57
+
+4. HIGH PERFORMERS DICE:
+   Roll_No              Name  Course  Marks  Attendance  LMS_Score
+23ME1A5402  Bhavani Chowdary THM-402   91.0        82.7       94.0
+23ME1A5449 Bhavani Prasad K. THM-402   89.0        95.5       87.7
+23ME1A5435       Divya Reddy DMW-401   81.0        83.6       86.9
+23ME1A5449 Bhavani Prasad K. DMW-401   76.0        82.5       98.8
+
+5. BENCHMARK RESULTS:
+                  Schema Type                                     Join Depth Total Time (250 runs) Avg Latency per Query                       Performance
+   Star Schema (Denormalized)                   1 Join (Fact <-> Dim_Course)              44.95 ms              0.180 ms                Baseline (Fastest)
+Snowflake Schema (Normalized) 3 Joins (Fact <-> Course <-> Dept <-> College)              47.99 ms              0.192 ms 1.07x slower due to join overhead

@@ -1,0 +1,1955 @@
+[
+  {
+    "log_id": 50002,
+    "student_roll_no": "23ME1A5449",
+    "course_code": "DMW-401",
+    "total_access_count": 109,
+    "watch_time_hours": 11.76,
+    "assignment_percentage": 98.8,
+    "last_active_timestamp": "2026-09-06T00:00:00"
+  },
+  {
+    "log_id": 50003,
+    "student_roll_no": "23ME1A5449",
+    "course_code": "THM-402",
+    "total_access_count": 94,
+    "watch_time_hours": 23.11,
+    "assignment_percentage": 87.7,
+    "last_active_timestamp": "2026-10-03T00:00:00"
+  },
+  {
+    "log_id": 50004,
+    "student_roll_no": "23ME1A5449",
+    "course_code": "CAD-403",
+    "total_access_count": 76,
+    "watch_time_hours": 15.87,
+    "assignment_percentage": 85.1,
+    "last_active_timestamp": "2026-09-29T00:00:00"
+  },
+  {
+    "log_id": 50005,
+    "student_roll_no": "23ME1A5449",
+    "course_code": "AI-406",
+    "total_access_count": 73,
+    "watch_time_hours": 12.98,
+    "assignment_percentage": 92.3,
+    "last_active_timestamp": "2026-10-07T00:00:00"
+  },
+  {
+    "log_id": 50006,
+    "student_roll_no": "23ME1A5402",
+    "course_code": "DMW-401",
+    "total_access_count": 74,
+    "watch_time_hours": 33.87,
+    "assignment_percentage": 97.5,
+    "last_active_timestamp": "2026-10-10T00:00:00"
+  },
+  {
+    "log_id": 50007,
+    "student_roll_no": "23ME1A5402",
+    "course_code": "DSP-404",
+    "total_access_count": 55,
+    "watch_time_hours": 45.88,
+    "assignment_percentage": 93.3,
+    "last_active_timestamp": "2026-10-11T00:00:00"
+  },
+  {
+    "log_id": 50008,
+    "student_roll_no": "23ME1A5402",
+    "course_code": "THM-402",
+    "total_access_count": 79,
+    "watch_time_hours": 23.64,
+    "assignment_percentage": 94.0,
+    "last_active_timestamp": "2026-09-30T00:00:00"
+  },
+  {
+    "log_id": 50009,
+    "student_roll_no": "23EEE1A5403",
+    "course_code": "AI-406",
+    "total_access_count": 48,
+    "watch_time_hours": 37.45,
+    "assignment_percentage": 91.1,
+    "last_active_timestamp": "2026-09-19T00:00:00"
+  },
+  {
+    "log_id": 50010,
+    "student_roll_no": "23EEE1A5403",
+    "course_code": "DSP-404",
+    "total_access_count": 81,
+    "watch_time_hours": 26.1,
+    "assignment_percentage": 65.3,
+    "last_active_timestamp": "2026-09-30T00:00:00"
+  },
+  {
+    "log_id": 50011,
+    "student_roll_no": "23EEE1A5403",
+    "course_code": "PS-405",
+    "total_access_count": 24,
+    "watch_time_hours": 35.83,
+    "assignment_percentage": 65.1,
+    "last_active_timestamp": "2026-09-23T00:00:00"
+  },
+  {
+    "log_id": 50012,
+    "student_roll_no": "23CSE1A5404",
+    "course_code": "PS-405",
+    "total_access_count": 44,
+    "watch_time_hours": 21.78,
+    "assignment_percentage": 61.6,
+    "last_active_timestamp": "2026-09-15T00:00:00"
+  },
+  {
+    "log_id": 50013,
+    "student_roll_no": "23CSE1A5404",
+    "course_code": "DMW-401",
+    "total_access_count": 23,
+    "watch_time_hours": 23.13,
+    "assignment_percentage": 69.2,
+    "last_active_timestamp": "2026-10-01T00:00:00"
+  },
+  {
+    "log_id": 50014,
+    "student_roll_no": "23CSE1A5404",
+    "course_code": "THM-402",
+    "total_access_count": 68,
+    "watch_time_hours": 8.15,
+    "assignment_percentage": 90.8,
+    "last_active_timestamp": "2026-09-26T00:00:00"
+  },
+  {
+    "log_id": 50015,
+    "student_roll_no": "23CSE1A5404",
+    "course_code": "AI-406",
+    "total_access_count": 89,
+    "watch_time_hours": 45.71,
+    "assignment_percentage": 55.8,
+    "last_active_timestamp": "2026-10-08T00:00:00"
+  },
+  {
+    "log_id": 50016,
+    "student_roll_no": "23CSE1A5405",
+    "course_code": "DSP-404",
+    "total_access_count": 64,
+    "watch_time_hours": 41.77,
+    "assignment_percentage": 96.0,
+    "last_active_timestamp": "2026-09-28T00:00:00"
+  },
+  {
+    "log_id": 50017,
+    "student_roll_no": "23CSE1A5405",
+    "course_code": "DMW-401",
+    "total_access_count": 83,
+    "watch_time_hours": 37.27,
+    "assignment_percentage": 78.5,
+    "last_active_timestamp": "2026-10-10T00:00:00"
+  },
+  {
+    "log_id": 50018,
+    "student_roll_no": "23CSE1A5405",
+    "course_code": "CAD-403",
+    "total_access_count": 43,
+    "watch_time_hours": 26.25,
+    "assignment_percentage": 66.7,
+    "last_active_timestamp": "2026-10-03T00:00:00"
+  },
+  {
+    "log_id": 50019,
+    "student_roll_no": "23CSE1A5405",
+    "course_code": "THM-402",
+    "total_access_count": 18,
+    "watch_time_hours": 22.03,
+    "assignment_percentage": 83.8,
+    "last_active_timestamp": "2026-09-27T00:00:00"
+  },
+  {
+    "log_id": 50020,
+    "student_roll_no": "23ME1A5406",
+    "course_code": "DSP-404",
+    "total_access_count": 65,
+    "watch_time_hours": 30.66,
+    "assignment_percentage": 83.5,
+    "last_active_timestamp": "2026-09-07T00:00:00"
+  },
+  {
+    "log_id": 50021,
+    "student_roll_no": "23ME1A5406",
+    "course_code": "THM-402",
+    "total_access_count": 69,
+    "watch_time_hours": 11.27,
+    "assignment_percentage": 74.9,
+    "last_active_timestamp": "2026-09-05T00:00:00"
+  },
+  {
+    "log_id": 50022,
+    "student_roll_no": "23ME1A5406",
+    "course_code": "DMW-401",
+    "total_access_count": 48,
+    "watch_time_hours": 21.61,
+    "assignment_percentage": 64.1,
+    "last_active_timestamp": "2026-09-22T00:00:00"
+  },
+  {
+    "log_id": 50023,
+    "student_roll_no": "23ME1A5407",
+    "course_code": "DSP-404",
+    "total_access_count": 25,
+    "watch_time_hours": 25.49,
+    "assignment_percentage": 87.2,
+    "last_active_timestamp": "2026-09-05T00:00:00"
+  },
+  {
+    "log_id": 50024,
+    "student_roll_no": "23ME1A5407",
+    "course_code": "CAD-403",
+    "total_access_count": 59,
+    "watch_time_hours": 15.03,
+    "assignment_percentage": 58.0,
+    "last_active_timestamp": "2026-10-13T00:00:00"
+  },
+  {
+    "log_id": 50025,
+    "student_roll_no": "23ME1A5407",
+    "course_code": "AI-406",
+    "total_access_count": 20,
+    "watch_time_hours": 37.55,
+    "assignment_percentage": 95.8,
+    "last_active_timestamp": "2026-09-14T00:00:00"
+  },
+  {
+    "log_id": 50026,
+    "student_roll_no": "23ME1A5407",
+    "course_code": "THM-402",
+    "total_access_count": 17,
+    "watch_time_hours": 31.91,
+    "assignment_percentage": 65.3,
+    "last_active_timestamp": "2026-10-02T00:00:00"
+  },
+  {
+    "log_id": 50027,
+    "student_roll_no": "23CSE1A5408",
+    "course_code": "PS-405",
+    "total_access_count": 47,
+    "watch_time_hours": 38.09,
+    "assignment_percentage": 62.2,
+    "last_active_timestamp": "2026-10-10T00:00:00"
+  },
+  {
+    "log_id": 50028,
+    "student_roll_no": "23CSE1A5408",
+    "course_code": "THM-402",
+    "total_access_count": 29,
+    "watch_time_hours": 38.56,
+    "assignment_percentage": 62.0,
+    "last_active_timestamp": "2026-09-21T00:00:00"
+  },
+  {
+    "log_id": 50029,
+    "student_roll_no": "23CSE1A5408",
+    "course_code": "DSP-404",
+    "total_access_count": 28,
+    "watch_time_hours": 30.09,
+    "assignment_percentage": 94.9,
+    "last_active_timestamp": "2026-10-08T00:00:00"
+  },
+  {
+    "log_id": 50030,
+    "student_roll_no": "23CSE1A5409",
+    "course_code": "DSP-404",
+    "total_access_count": 95,
+    "watch_time_hours": 15.82,
+    "assignment_percentage": 85.0,
+    "last_active_timestamp": "2026-09-21T00:00:00"
+  },
+  {
+    "log_id": 50031,
+    "student_roll_no": "23CSE1A5409",
+    "course_code": "THM-402",
+    "total_access_count": 91,
+    "watch_time_hours": 39.73,
+    "assignment_percentage": 89.2,
+    "last_active_timestamp": "2026-10-08T00:00:00"
+  },
+  {
+    "log_id": 50032,
+    "student_roll_no": "23CSE1A5409",
+    "course_code": "DMW-401",
+    "total_access_count": 20,
+    "watch_time_hours": 20.26,
+    "assignment_percentage": 73.4,
+    "last_active_timestamp": "2026-09-25T00:00:00"
+  },
+  {
+    "log_id": 50033,
+    "student_roll_no": "23CSE1A5409",
+    "course_code": "CAD-403",
+    "total_access_count": 23,
+    "watch_time_hours": 27.0,
+    "assignment_percentage": 69.7,
+    "last_active_timestamp": "2026-09-28T00:00:00"
+  },
+  {
+    "log_id": 50034,
+    "student_roll_no": "23ECE1A5410",
+    "course_code": "DMW-401",
+    "total_access_count": 73,
+    "watch_time_hours": 35.56,
+    "assignment_percentage": 73.7,
+    "last_active_timestamp": "2026-10-05T00:00:00"
+  },
+  {
+    "log_id": 50035,
+    "student_roll_no": "23ECE1A5410",
+    "course_code": "DSP-404",
+    "total_access_count": 49,
+    "watch_time_hours": 31.68,
+    "assignment_percentage": 94.5,
+    "last_active_timestamp": "2026-10-02T00:00:00"
+  },
+  {
+    "log_id": 50036,
+    "student_roll_no": "23ECE1A5410",
+    "course_code": "CAD-403",
+    "total_access_count": 74,
+    "watch_time_hours": 24.01,
+    "assignment_percentage": 86.4,
+    "last_active_timestamp": "2026-09-19T00:00:00"
+  },
+  {
+    "log_id": 50037,
+    "student_roll_no": "23ECE1A5410",
+    "course_code": "PS-405",
+    "total_access_count": 56,
+    "watch_time_hours": 41.7,
+    "assignment_percentage": 90.7,
+    "last_active_timestamp": "2026-09-07T00:00:00"
+  },
+  {
+    "log_id": 50038,
+    "student_roll_no": "23CSE1A5411",
+    "course_code": "DSP-404",
+    "total_access_count": 93,
+    "watch_time_hours": 33.9,
+    "assignment_percentage": 69.5,
+    "last_active_timestamp": "2026-10-03T00:00:00"
+  },
+  {
+    "log_id": 50039,
+    "student_roll_no": "23CSE1A5411",
+    "course_code": "THM-402",
+    "total_access_count": 56,
+    "watch_time_hours": 13.23,
+    "assignment_percentage": 64.1,
+    "last_active_timestamp": "2026-09-18T00:00:00"
+  },
+  {
+    "log_id": 50040,
+    "student_roll_no": "23CSE1A5411",
+    "course_code": "AI-406",
+    "total_access_count": 58,
+    "watch_time_hours": 17.39,
+    "assignment_percentage": 80.6,
+    "last_active_timestamp": "2026-09-19T00:00:00"
+  },
+  {
+    "log_id": 50041,
+    "student_roll_no": "23CSE1A5411",
+    "course_code": "CAD-403",
+    "total_access_count": 86,
+    "watch_time_hours": 5.93,
+    "assignment_percentage": 95.8,
+    "last_active_timestamp": "2026-09-07T00:00:00"
+  },
+  {
+    "log_id": 50042,
+    "student_roll_no": "23ECE1A5412",
+    "course_code": "AI-406",
+    "total_access_count": 86,
+    "watch_time_hours": 37.72,
+    "assignment_percentage": 84.7,
+    "last_active_timestamp": "2026-10-13T00:00:00"
+  },
+  {
+    "log_id": 50043,
+    "student_roll_no": "23ECE1A5412",
+    "course_code": "DSP-404",
+    "total_access_count": 77,
+    "watch_time_hours": 24.55,
+    "assignment_percentage": 55.7,
+    "last_active_timestamp": "2026-09-20T00:00:00"
+  },
+  {
+    "log_id": 50044,
+    "student_roll_no": "23ECE1A5412",
+    "course_code": "PS-405",
+    "total_access_count": 43,
+    "watch_time_hours": 22.69,
+    "assignment_percentage": 65.5,
+    "last_active_timestamp": "2026-10-14T00:00:00"
+  },
+  {
+    "log_id": 50045,
+    "student_roll_no": "23CSE1A5413",
+    "course_code": "DSP-404",
+    "total_access_count": 85,
+    "watch_time_hours": 19.56,
+    "assignment_percentage": 85.2,
+    "last_active_timestamp": "2026-09-19T00:00:00"
+  },
+  {
+    "log_id": 50046,
+    "student_roll_no": "23CSE1A5413",
+    "course_code": "PS-405",
+    "total_access_count": 54,
+    "watch_time_hours": 16.18,
+    "assignment_percentage": 60.2,
+    "last_active_timestamp": "2026-09-14T00:00:00"
+  },
+  {
+    "log_id": 50047,
+    "student_roll_no": "23CSE1A5413",
+    "course_code": "CAD-403",
+    "total_access_count": 55,
+    "watch_time_hours": 10.58,
+    "assignment_percentage": 78.0,
+    "last_active_timestamp": "2026-10-16T00:00:00"
+  },
+  {
+    "log_id": 50048,
+    "student_roll_no": "23CSE1A5413",
+    "course_code": "THM-402",
+    "total_access_count": 38,
+    "watch_time_hours": 13.64,
+    "assignment_percentage": 86.8,
+    "last_active_timestamp": "2026-09-19T00:00:00"
+  },
+  {
+    "log_id": 50049,
+    "student_roll_no": "23CSE1A5414",
+    "course_code": "DMW-401",
+    "total_access_count": 61,
+    "watch_time_hours": 13.13,
+    "assignment_percentage": 55.6,
+    "last_active_timestamp": "2026-10-06T00:00:00"
+  },
+  {
+    "log_id": 50050,
+    "student_roll_no": "23CSE1A5414",
+    "course_code": "THM-402",
+    "total_access_count": 31,
+    "watch_time_hours": 17.16,
+    "assignment_percentage": 96.9,
+    "last_active_timestamp": "2026-10-07T00:00:00"
+  },
+  {
+    "log_id": 50051,
+    "student_roll_no": "23CSE1A5414",
+    "course_code": "CAD-403",
+    "total_access_count": 52,
+    "watch_time_hours": 35.14,
+    "assignment_percentage": 60.4,
+    "last_active_timestamp": "2026-10-03T00:00:00"
+  },
+  {
+    "log_id": 50052,
+    "student_roll_no": "23CSE1A5414",
+    "course_code": "AI-406",
+    "total_access_count": 28,
+    "watch_time_hours": 42.59,
+    "assignment_percentage": 79.7,
+    "last_active_timestamp": "2026-10-02T00:00:00"
+  },
+  {
+    "log_id": 50053,
+    "student_roll_no": "23EEE1A5415",
+    "course_code": "DSP-404",
+    "total_access_count": 47,
+    "watch_time_hours": 45.5,
+    "assignment_percentage": 75.5,
+    "last_active_timestamp": "2026-09-06T00:00:00"
+  },
+  {
+    "log_id": 50054,
+    "student_roll_no": "23EEE1A5415",
+    "course_code": "CAD-403",
+    "total_access_count": 66,
+    "watch_time_hours": 26.4,
+    "assignment_percentage": 79.8,
+    "last_active_timestamp": "2026-10-15T00:00:00"
+  },
+  {
+    "log_id": 50055,
+    "student_roll_no": "23EEE1A5415",
+    "course_code": "THM-402",
+    "total_access_count": 21,
+    "watch_time_hours": 11.95,
+    "assignment_percentage": 89.9,
+    "last_active_timestamp": "2026-09-21T00:00:00"
+  },
+  {
+    "log_id": 50056,
+    "student_roll_no": "23EEE1A5415",
+    "course_code": "DMW-401",
+    "total_access_count": 25,
+    "watch_time_hours": 47.74,
+    "assignment_percentage": 60.1,
+    "last_active_timestamp": "2026-09-28T00:00:00"
+  },
+  {
+    "log_id": 50057,
+    "student_roll_no": "23CSE1A5416",
+    "course_code": "PS-405",
+    "total_access_count": 71,
+    "watch_time_hours": 18.14,
+    "assignment_percentage": 80.3,
+    "last_active_timestamp": "2026-09-29T00:00:00"
+  },
+  {
+    "log_id": 50058,
+    "student_roll_no": "23CSE1A5416",
+    "course_code": "DSP-404",
+    "total_access_count": 54,
+    "watch_time_hours": 29.67,
+    "assignment_percentage": 57.6,
+    "last_active_timestamp": "2026-09-08T00:00:00"
+  },
+  {
+    "log_id": 50059,
+    "student_roll_no": "23CSE1A5416",
+    "course_code": "AI-406",
+    "total_access_count": 41,
+    "watch_time_hours": 32.08,
+    "assignment_percentage": 66.4,
+    "last_active_timestamp": "2026-09-07T00:00:00"
+  },
+  {
+    "log_id": 50060,
+    "student_roll_no": "23ECE1A5417",
+    "course_code": "THM-402",
+    "total_access_count": 35,
+    "watch_time_hours": 5.61,
+    "assignment_percentage": 74.4,
+    "last_active_timestamp": "2026-10-10T00:00:00"
+  },
+  {
+    "log_id": 50061,
+    "student_roll_no": "23ECE1A5417",
+    "course_code": "AI-406",
+    "total_access_count": 75,
+    "watch_time_hours": 17.88,
+    "assignment_percentage": 65.0,
+    "last_active_timestamp": "2026-09-20T00:00:00"
+  },
+  {
+    "log_id": 50062,
+    "student_roll_no": "23ECE1A5417",
+    "course_code": "DMW-401",
+    "total_access_count": 73,
+    "watch_time_hours": 8.53,
+    "assignment_percentage": 65.0,
+    "last_active_timestamp": "2026-09-18T00:00:00"
+  },
+  {
+    "log_id": 50063,
+    "student_roll_no": "23ME1A5418",
+    "course_code": "DSP-404",
+    "total_access_count": 34,
+    "watch_time_hours": 44.11,
+    "assignment_percentage": 90.5,
+    "last_active_timestamp": "2026-09-06T00:00:00"
+  },
+  {
+    "log_id": 50064,
+    "student_roll_no": "23ME1A5418",
+    "course_code": "DMW-401",
+    "total_access_count": 22,
+    "watch_time_hours": 12.55,
+    "assignment_percentage": 68.2,
+    "last_active_timestamp": "2026-10-08T00:00:00"
+  },
+  {
+    "log_id": 50065,
+    "student_roll_no": "23ME1A5418",
+    "course_code": "THM-402",
+    "total_access_count": 51,
+    "watch_time_hours": 24.16,
+    "assignment_percentage": 75.2,
+    "last_active_timestamp": "2026-09-21T00:00:00"
+  },
+  {
+    "log_id": 50066,
+    "student_roll_no": "23CSE1A5419",
+    "course_code": "CAD-403",
+    "total_access_count": 25,
+    "watch_time_hours": 30.92,
+    "assignment_percentage": 93.2,
+    "last_active_timestamp": "2026-09-22T00:00:00"
+  },
+  {
+    "log_id": 50067,
+    "student_roll_no": "23CSE1A5419",
+    "course_code": "PS-405",
+    "total_access_count": 92,
+    "watch_time_hours": 16.14,
+    "assignment_percentage": 58.9,
+    "last_active_timestamp": "2026-10-15T00:00:00"
+  },
+  {
+    "log_id": 50068,
+    "student_roll_no": "23CSE1A5419",
+    "course_code": "DSP-404",
+    "total_access_count": 88,
+    "watch_time_hours": 30.45,
+    "assignment_percentage": 55.9,
+    "last_active_timestamp": "2026-10-15T00:00:00"
+  },
+  {
+    "log_id": 50069,
+    "student_roll_no": "23CSE1A5419",
+    "course_code": "THM-402",
+    "total_access_count": 49,
+    "watch_time_hours": 29.99,
+    "assignment_percentage": 87.8,
+    "last_active_timestamp": "2026-09-13T00:00:00"
+  },
+  {
+    "log_id": 50070,
+    "student_roll_no": "23ECE1A5420",
+    "course_code": "PS-405",
+    "total_access_count": 89,
+    "watch_time_hours": 24.03,
+    "assignment_percentage": 90.0,
+    "last_active_timestamp": "2026-09-07T00:00:00"
+  },
+  {
+    "log_id": 50071,
+    "student_roll_no": "23ECE1A5420",
+    "course_code": "DSP-404",
+    "total_access_count": 75,
+    "watch_time_hours": 20.29,
+    "assignment_percentage": 69.3,
+    "last_active_timestamp": "2026-10-14T00:00:00"
+  },
+  {
+    "log_id": 50072,
+    "student_roll_no": "23ECE1A5420",
+    "course_code": "CAD-403",
+    "total_access_count": 28,
+    "watch_time_hours": 41.95,
+    "assignment_percentage": 69.2,
+    "last_active_timestamp": "2026-10-16T00:00:00"
+  },
+  {
+    "log_id": 50073,
+    "student_roll_no": "23ECE1A5420",
+    "course_code": "DMW-401",
+    "total_access_count": 78,
+    "watch_time_hours": 17.75,
+    "assignment_percentage": 95.6,
+    "last_active_timestamp": "2026-10-07T00:00:00"
+  },
+  {
+    "log_id": 50074,
+    "student_roll_no": "23ECE1A5421",
+    "course_code": "DSP-404",
+    "total_access_count": 47,
+    "watch_time_hours": 19.24,
+    "assignment_percentage": 96.7,
+    "last_active_timestamp": "2026-09-27T00:00:00"
+  },
+  {
+    "log_id": 50075,
+    "student_roll_no": "23ECE1A5421",
+    "course_code": "DMW-401",
+    "total_access_count": 80,
+    "watch_time_hours": 40.56,
+    "assignment_percentage": 55.0,
+    "last_active_timestamp": "2026-10-06T00:00:00"
+  },
+  {
+    "log_id": 50076,
+    "student_roll_no": "23ECE1A5421",
+    "course_code": "CAD-403",
+    "total_access_count": 74,
+    "watch_time_hours": 23.06,
+    "assignment_percentage": 63.1,
+    "last_active_timestamp": "2026-09-25T00:00:00"
+  },
+  {
+    "log_id": 50077,
+    "student_roll_no": "23EEE1A5422",
+    "course_code": "AI-406",
+    "total_access_count": 49,
+    "watch_time_hours": 28.84,
+    "assignment_percentage": 94.9,
+    "last_active_timestamp": "2026-09-30T00:00:00"
+  },
+  {
+    "log_id": 50078,
+    "student_roll_no": "23EEE1A5422",
+    "course_code": "DSP-404",
+    "total_access_count": 77,
+    "watch_time_hours": 10.66,
+    "assignment_percentage": 96.8,
+    "last_active_timestamp": "2026-10-10T00:00:00"
+  },
+  {
+    "log_id": 50079,
+    "student_roll_no": "23EEE1A5422",
+    "course_code": "DMW-401",
+    "total_access_count": 45,
+    "watch_time_hours": 35.67,
+    "assignment_percentage": 68.4,
+    "last_active_timestamp": "2026-09-02T00:00:00"
+  },
+  {
+    "log_id": 50080,
+    "student_roll_no": "23EEE1A5422",
+    "course_code": "PS-405",
+    "total_access_count": 85,
+    "watch_time_hours": 22.84,
+    "assignment_percentage": 64.7,
+    "last_active_timestamp": "2026-09-09T00:00:00"
+  },
+  {
+    "log_id": 50081,
+    "student_roll_no": "23ECE1A5423",
+    "course_code": "DMW-401",
+    "total_access_count": 52,
+    "watch_time_hours": 27.13,
+    "assignment_percentage": 66.8,
+    "last_active_timestamp": "2026-10-02T00:00:00"
+  },
+  {
+    "log_id": 50082,
+    "student_roll_no": "23ECE1A5423",
+    "course_code": "THM-402",
+    "total_access_count": 75,
+    "watch_time_hours": 15.86,
+    "assignment_percentage": 78.7,
+    "last_active_timestamp": "2026-09-26T00:00:00"
+  },
+  {
+    "log_id": 50083,
+    "student_roll_no": "23ECE1A5423",
+    "course_code": "DSP-404",
+    "total_access_count": 39,
+    "watch_time_hours": 44.68,
+    "assignment_percentage": 76.9,
+    "last_active_timestamp": "2026-09-10T00:00:00"
+  },
+  {
+    "log_id": 50084,
+    "student_roll_no": "23ECE1A5423",
+    "course_code": "CAD-403",
+    "total_access_count": 23,
+    "watch_time_hours": 17.24,
+    "assignment_percentage": 89.0,
+    "last_active_timestamp": "2026-09-28T00:00:00"
+  },
+  {
+    "log_id": 50085,
+    "student_roll_no": "23ECE1A5424",
+    "course_code": "PS-405",
+    "total_access_count": 53,
+    "watch_time_hours": 41.09,
+    "assignment_percentage": 79.9,
+    "last_active_timestamp": "2026-10-14T00:00:00"
+  },
+  {
+    "log_id": 50086,
+    "student_roll_no": "23ECE1A5424",
+    "course_code": "CAD-403",
+    "total_access_count": 77,
+    "watch_time_hours": 42.27,
+    "assignment_percentage": 74.2,
+    "last_active_timestamp": "2026-10-02T00:00:00"
+  },
+  {
+    "log_id": 50087,
+    "student_roll_no": "23ECE1A5424",
+    "course_code": "DMW-401",
+    "total_access_count": 59,
+    "watch_time_hours": 19.63,
+    "assignment_percentage": 87.8,
+    "last_active_timestamp": "2026-09-26T00:00:00"
+  },
+  {
+    "log_id": 50088,
+    "student_roll_no": "23ECE1A5424",
+    "course_code": "THM-402",
+    "total_access_count": 73,
+    "watch_time_hours": 45.15,
+    "assignment_percentage": 92.4,
+    "last_active_timestamp": "2026-10-16T00:00:00"
+  },
+  {
+    "log_id": 50089,
+    "student_roll_no": "23ME1A5425",
+    "course_code": "PS-405",
+    "total_access_count": 67,
+    "watch_time_hours": 7.36,
+    "assignment_percentage": 87.0,
+    "last_active_timestamp": "2026-09-26T00:00:00"
+  },
+  {
+    "log_id": 50090,
+    "student_roll_no": "23ME1A5425",
+    "course_code": "DSP-404",
+    "total_access_count": 64,
+    "watch_time_hours": 47.51,
+    "assignment_percentage": 89.1,
+    "last_active_timestamp": "2026-10-13T00:00:00"
+  },
+  {
+    "log_id": 50091,
+    "student_roll_no": "23ME1A5425",
+    "course_code": "THM-402",
+    "total_access_count": 34,
+    "watch_time_hours": 26.55,
+    "assignment_percentage": 56.6,
+    "last_active_timestamp": "2026-10-04T00:00:00"
+  },
+  {
+    "log_id": 50092,
+    "student_roll_no": "23CSE1A5426",
+    "course_code": "DMW-401",
+    "total_access_count": 73,
+    "watch_time_hours": 6.15,
+    "assignment_percentage": 61.2,
+    "last_active_timestamp": "2026-10-13T00:00:00"
+  },
+  {
+    "log_id": 50093,
+    "student_roll_no": "23CSE1A5426",
+    "course_code": "DSP-404",
+    "total_access_count": 34,
+    "watch_time_hours": 8.68,
+    "assignment_percentage": 88.6,
+    "last_active_timestamp": "2026-09-18T00:00:00"
+  },
+  {
+    "log_id": 50094,
+    "student_roll_no": "23CSE1A5426",
+    "course_code": "AI-406",
+    "total_access_count": 58,
+    "watch_time_hours": 31.99,
+    "assignment_percentage": 72.1,
+    "last_active_timestamp": "2026-09-07T00:00:00"
+  },
+  {
+    "log_id": 50095,
+    "student_roll_no": "23CSE1A5426",
+    "course_code": "CAD-403",
+    "total_access_count": 57,
+    "watch_time_hours": 41.72,
+    "assignment_percentage": 92.0,
+    "last_active_timestamp": "2026-09-26T00:00:00"
+  },
+  {
+    "log_id": 50096,
+    "student_roll_no": "23CSE1A5427",
+    "course_code": "AI-406",
+    "total_access_count": 23,
+    "watch_time_hours": 15.48,
+    "assignment_percentage": 84.4,
+    "last_active_timestamp": "2026-09-20T00:00:00"
+  },
+  {
+    "log_id": 50097,
+    "student_roll_no": "23CSE1A5427",
+    "course_code": "DSP-404",
+    "total_access_count": 44,
+    "watch_time_hours": 37.24,
+    "assignment_percentage": 73.7,
+    "last_active_timestamp": "2026-09-08T00:00:00"
+  },
+  {
+    "log_id": 50098,
+    "student_roll_no": "23CSE1A5427",
+    "course_code": "DMW-401",
+    "total_access_count": 27,
+    "watch_time_hours": 24.36,
+    "assignment_percentage": 84.8,
+    "last_active_timestamp": "2026-09-03T00:00:00"
+  },
+  {
+    "log_id": 50099,
+    "student_roll_no": "23CSE1A5427",
+    "course_code": "CAD-403",
+    "total_access_count": 20,
+    "watch_time_hours": 19.29,
+    "assignment_percentage": 57.4,
+    "last_active_timestamp": "2026-09-24T00:00:00"
+  },
+  {
+    "log_id": 50100,
+    "student_roll_no": "23ME1A5428",
+    "course_code": "DSP-404",
+    "total_access_count": 67,
+    "watch_time_hours": 29.55,
+    "assignment_percentage": 89.1,
+    "last_active_timestamp": "2026-09-12T00:00:00"
+  },
+  {
+    "log_id": 50101,
+    "student_roll_no": "23ME1A5428",
+    "course_code": "THM-402",
+    "total_access_count": 37,
+    "watch_time_hours": 8.86,
+    "assignment_percentage": 92.4,
+    "last_active_timestamp": "2026-10-11T00:00:00"
+  },
+  {
+    "log_id": 50102,
+    "student_roll_no": "23ME1A5428",
+    "course_code": "PS-405",
+    "total_access_count": 45,
+    "watch_time_hours": 26.65,
+    "assignment_percentage": 80.1,
+    "last_active_timestamp": "2026-09-16T00:00:00"
+  },
+  {
+    "log_id": 50103,
+    "student_roll_no": "23ME1A5428",
+    "course_code": "CAD-403",
+    "total_access_count": 74,
+    "watch_time_hours": 32.61,
+    "assignment_percentage": 74.8,
+    "last_active_timestamp": "2026-10-14T00:00:00"
+  },
+  {
+    "log_id": 50104,
+    "student_roll_no": "23ME1A5429",
+    "course_code": "DSP-404",
+    "total_access_count": 24,
+    "watch_time_hours": 24.27,
+    "assignment_percentage": 69.9,
+    "last_active_timestamp": "2026-10-09T00:00:00"
+  },
+  {
+    "log_id": 50105,
+    "student_roll_no": "23ME1A5429",
+    "course_code": "CAD-403",
+    "total_access_count": 53,
+    "watch_time_hours": 32.65,
+    "assignment_percentage": 73.2,
+    "last_active_timestamp": "2026-09-18T00:00:00"
+  },
+  {
+    "log_id": 50106,
+    "student_roll_no": "23ME1A5429",
+    "course_code": "THM-402",
+    "total_access_count": 73,
+    "watch_time_hours": 41.43,
+    "assignment_percentage": 63.6,
+    "last_active_timestamp": "2026-09-26T00:00:00"
+  },
+  {
+    "log_id": 50107,
+    "student_roll_no": "23CSE1A5430",
+    "course_code": "DMW-401",
+    "total_access_count": 60,
+    "watch_time_hours": 29.93,
+    "assignment_percentage": 97.7,
+    "last_active_timestamp": "2026-09-20T00:00:00"
+  },
+  {
+    "log_id": 50108,
+    "student_roll_no": "23CSE1A5430",
+    "course_code": "THM-402",
+    "total_access_count": 17,
+    "watch_time_hours": 47.06,
+    "assignment_percentage": 83.3,
+    "last_active_timestamp": "2026-09-19T00:00:00"
+  },
+  {
+    "log_id": 50109,
+    "student_roll_no": "23CSE1A5430",
+    "course_code": "DSP-404",
+    "total_access_count": 16,
+    "watch_time_hours": 29.55,
+    "assignment_percentage": 84.5,
+    "last_active_timestamp": "2026-09-05T00:00:00"
+  },
+  {
+    "log_id": 50110,
+    "student_roll_no": "23CSE1A5430",
+    "course_code": "CAD-403",
+    "total_access_count": 92,
+    "watch_time_hours": 37.17,
+    "assignment_percentage": 90.8,
+    "last_active_timestamp": "2026-09-20T00:00:00"
+  },
+  {
+    "log_id": 50111,
+    "student_roll_no": "23ME1A5431",
+    "course_code": "PS-405",
+    "total_access_count": 39,
+    "watch_time_hours": 31.89,
+    "assignment_percentage": 84.1,
+    "last_active_timestamp": "2026-10-14T00:00:00"
+  },
+  {
+    "log_id": 50112,
+    "student_roll_no": "23ME1A5431",
+    "course_code": "CAD-403",
+    "total_access_count": 32,
+    "watch_time_hours": 32.2,
+    "assignment_percentage": 93.8,
+    "last_active_timestamp": "2026-10-13T00:00:00"
+  },
+  {
+    "log_id": 50113,
+    "student_roll_no": "23ME1A5431",
+    "course_code": "THM-402",
+    "total_access_count": 20,
+    "watch_time_hours": 18.63,
+    "assignment_percentage": 74.0,
+    "last_active_timestamp": "2026-10-09T00:00:00"
+  },
+  {
+    "log_id": 50114,
+    "student_roll_no": "23EEE1A5432",
+    "course_code": "AI-406",
+    "total_access_count": 56,
+    "watch_time_hours": 37.27,
+    "assignment_percentage": 62.6,
+    "last_active_timestamp": "2026-09-10T00:00:00"
+  },
+  {
+    "log_id": 50115,
+    "student_roll_no": "23EEE1A5432",
+    "course_code": "THM-402",
+    "total_access_count": 84,
+    "watch_time_hours": 42.75,
+    "assignment_percentage": 70.7,
+    "last_active_timestamp": "2026-10-04T00:00:00"
+  },
+  {
+    "log_id": 50116,
+    "student_roll_no": "23EEE1A5432",
+    "course_code": "DMW-401",
+    "total_access_count": 49,
+    "watch_time_hours": 40.8,
+    "assignment_percentage": 66.0,
+    "last_active_timestamp": "2026-10-02T00:00:00"
+  },
+  {
+    "log_id": 50117,
+    "student_roll_no": "23EEE1A5432",
+    "course_code": "PS-405",
+    "total_access_count": 52,
+    "watch_time_hours": 37.23,
+    "assignment_percentage": 69.6,
+    "last_active_timestamp": "2026-09-09T00:00:00"
+  },
+  {
+    "log_id": 50118,
+    "student_roll_no": "23EEE1A5433",
+    "course_code": "DMW-401",
+    "total_access_count": 65,
+    "watch_time_hours": 46.61,
+    "assignment_percentage": 89.6,
+    "last_active_timestamp": "2026-09-25T00:00:00"
+  },
+  {
+    "log_id": 50119,
+    "student_roll_no": "23EEE1A5433",
+    "course_code": "THM-402",
+    "total_access_count": 26,
+    "watch_time_hours": 39.1,
+    "assignment_percentage": 55.6,
+    "last_active_timestamp": "2026-10-06T00:00:00"
+  },
+  {
+    "log_id": 50120,
+    "student_roll_no": "23EEE1A5433",
+    "course_code": "PS-405",
+    "total_access_count": 30,
+    "watch_time_hours": 24.83,
+    "assignment_percentage": 83.9,
+    "last_active_timestamp": "2026-10-15T00:00:00"
+  },
+  {
+    "log_id": 50121,
+    "student_roll_no": "23EEE1A5433",
+    "course_code": "CAD-403",
+    "total_access_count": 48,
+    "watch_time_hours": 30.34,
+    "assignment_percentage": 90.4,
+    "last_active_timestamp": "2026-09-25T00:00:00"
+  },
+  {
+    "log_id": 50122,
+    "student_roll_no": "23ME1A5434",
+    "course_code": "AI-406",
+    "total_access_count": 18,
+    "watch_time_hours": 31.83,
+    "assignment_percentage": 95.6,
+    "last_active_timestamp": "2026-09-22T00:00:00"
+  },
+  {
+    "log_id": 50123,
+    "student_roll_no": "23ME1A5434",
+    "course_code": "THM-402",
+    "total_access_count": 93,
+    "watch_time_hours": 14.91,
+    "assignment_percentage": 57.7,
+    "last_active_timestamp": "2026-10-01T00:00:00"
+  },
+  {
+    "log_id": 50124,
+    "student_roll_no": "23ME1A5434",
+    "course_code": "DSP-404",
+    "total_access_count": 53,
+    "watch_time_hours": 33.09,
+    "assignment_percentage": 60.0,
+    "last_active_timestamp": "2026-09-04T00:00:00"
+  },
+  {
+    "log_id": 50125,
+    "student_roll_no": "23ME1A5435",
+    "course_code": "CAD-403",
+    "total_access_count": 27,
+    "watch_time_hours": 15.48,
+    "assignment_percentage": 78.1,
+    "last_active_timestamp": "2026-09-26T00:00:00"
+  },
+  {
+    "log_id": 50126,
+    "student_roll_no": "23ME1A5435",
+    "course_code": "DSP-404",
+    "total_access_count": 73,
+    "watch_time_hours": 21.27,
+    "assignment_percentage": 95.8,
+    "last_active_timestamp": "2026-10-16T00:00:00"
+  },
+  {
+    "log_id": 50127,
+    "student_roll_no": "23ME1A5435",
+    "course_code": "DMW-401",
+    "total_access_count": 84,
+    "watch_time_hours": 23.31,
+    "assignment_percentage": 86.9,
+    "last_active_timestamp": "2026-09-11T00:00:00"
+  },
+  {
+    "log_id": 50128,
+    "student_roll_no": "23EEE1A5436",
+    "course_code": "AI-406",
+    "total_access_count": 67,
+    "watch_time_hours": 45.41,
+    "assignment_percentage": 67.0,
+    "last_active_timestamp": "2026-10-16T00:00:00"
+  },
+  {
+    "log_id": 50129,
+    "student_roll_no": "23EEE1A5436",
+    "course_code": "DMW-401",
+    "total_access_count": 62,
+    "watch_time_hours": 14.73,
+    "assignment_percentage": 74.1,
+    "last_active_timestamp": "2026-09-17T00:00:00"
+  },
+  {
+    "log_id": 50130,
+    "student_roll_no": "23EEE1A5436",
+    "course_code": "DSP-404",
+    "total_access_count": 61,
+    "watch_time_hours": 9.72,
+    "assignment_percentage": 84.5,
+    "last_active_timestamp": "2026-10-06T00:00:00"
+  },
+  {
+    "log_id": 50131,
+    "student_roll_no": "23EEE1A5436",
+    "course_code": "CAD-403",
+    "total_access_count": 60,
+    "watch_time_hours": 8.07,
+    "assignment_percentage": 66.9,
+    "last_active_timestamp": "2026-09-09T00:00:00"
+  },
+  {
+    "log_id": 50132,
+    "student_roll_no": "23EEE1A5437",
+    "course_code": "DMW-401",
+    "total_access_count": 57,
+    "watch_time_hours": 15.85,
+    "assignment_percentage": 60.4,
+    "last_active_timestamp": "2026-10-08T00:00:00"
+  },
+  {
+    "log_id": 50133,
+    "student_roll_no": "23EEE1A5437",
+    "course_code": "THM-402",
+    "total_access_count": 41,
+    "watch_time_hours": 8.42,
+    "assignment_percentage": 87.9,
+    "last_active_timestamp": "2026-09-15T00:00:00"
+  },
+  {
+    "log_id": 50134,
+    "student_roll_no": "23EEE1A5437",
+    "course_code": "AI-406",
+    "total_access_count": 90,
+    "watch_time_hours": 14.68,
+    "assignment_percentage": 92.4,
+    "last_active_timestamp": "2026-09-23T00:00:00"
+  },
+  {
+    "log_id": 50135,
+    "student_roll_no": "23EEE1A5437",
+    "course_code": "DSP-404",
+    "total_access_count": 33,
+    "watch_time_hours": 39.02,
+    "assignment_percentage": 80.6,
+    "last_active_timestamp": "2026-09-19T00:00:00"
+  },
+  {
+    "log_id": 50136,
+    "student_roll_no": "23CSE1A5438",
+    "course_code": "THM-402",
+    "total_access_count": 37,
+    "watch_time_hours": 10.17,
+    "assignment_percentage": 92.3,
+    "last_active_timestamp": "2026-09-10T00:00:00"
+  },
+  {
+    "log_id": 50137,
+    "student_roll_no": "23CSE1A5438",
+    "course_code": "PS-405",
+    "total_access_count": 16,
+    "watch_time_hours": 20.73,
+    "assignment_percentage": 88.9,
+    "last_active_timestamp": "2026-10-09T00:00:00"
+  },
+  {
+    "log_id": 50138,
+    "student_roll_no": "23CSE1A5438",
+    "course_code": "CAD-403",
+    "total_access_count": 56,
+    "watch_time_hours": 6.17,
+    "assignment_percentage": 66.4,
+    "last_active_timestamp": "2026-09-10T00:00:00"
+  },
+  {
+    "log_id": 50139,
+    "student_roll_no": "23ME1A5439",
+    "course_code": "PS-405",
+    "total_access_count": 72,
+    "watch_time_hours": 38.57,
+    "assignment_percentage": 77.1,
+    "last_active_timestamp": "2026-09-08T00:00:00"
+  },
+  {
+    "log_id": 50140,
+    "student_roll_no": "23ME1A5439",
+    "course_code": "DMW-401",
+    "total_access_count": 72,
+    "watch_time_hours": 26.91,
+    "assignment_percentage": 95.7,
+    "last_active_timestamp": "2026-09-04T00:00:00"
+  },
+  {
+    "log_id": 50141,
+    "student_roll_no": "23ME1A5439",
+    "course_code": "AI-406",
+    "total_access_count": 81,
+    "watch_time_hours": 18.32,
+    "assignment_percentage": 82.7,
+    "last_active_timestamp": "2026-09-03T00:00:00"
+  },
+  {
+    "log_id": 50142,
+    "student_roll_no": "23ME1A5439",
+    "course_code": "THM-402",
+    "total_access_count": 22,
+    "watch_time_hours": 47.94,
+    "assignment_percentage": 91.4,
+    "last_active_timestamp": "2026-09-29T00:00:00"
+  },
+  {
+    "log_id": 50143,
+    "student_roll_no": "23CSE1A5440",
+    "course_code": "DSP-404",
+    "total_access_count": 25,
+    "watch_time_hours": 19.19,
+    "assignment_percentage": 61.4,
+    "last_active_timestamp": "2026-09-10T00:00:00"
+  },
+  {
+    "log_id": 50144,
+    "student_roll_no": "23CSE1A5440",
+    "course_code": "AI-406",
+    "total_access_count": 50,
+    "watch_time_hours": 32.03,
+    "assignment_percentage": 80.2,
+    "last_active_timestamp": "2026-09-22T00:00:00"
+  },
+  {
+    "log_id": 50145,
+    "student_roll_no": "23CSE1A5440",
+    "course_code": "DMW-401",
+    "total_access_count": 63,
+    "watch_time_hours": 47.77,
+    "assignment_percentage": 77.8,
+    "last_active_timestamp": "2026-10-01T00:00:00"
+  },
+  {
+    "log_id": 50146,
+    "student_roll_no": "23ECE1A5441",
+    "course_code": "DMW-401",
+    "total_access_count": 72,
+    "watch_time_hours": 43.24,
+    "assignment_percentage": 72.8,
+    "last_active_timestamp": "2026-10-01T00:00:00"
+  },
+  {
+    "log_id": 50147,
+    "student_roll_no": "23ECE1A5441",
+    "course_code": "AI-406",
+    "total_access_count": 66,
+    "watch_time_hours": 23.18,
+    "assignment_percentage": 59.1,
+    "last_active_timestamp": "2026-09-29T00:00:00"
+  },
+  {
+    "log_id": 50148,
+    "student_roll_no": "23ECE1A5441",
+    "course_code": "THM-402",
+    "total_access_count": 55,
+    "watch_time_hours": 33.77,
+    "assignment_percentage": 71.1,
+    "last_active_timestamp": "2026-09-11T00:00:00"
+  },
+  {
+    "log_id": 50149,
+    "student_roll_no": "23ECE1A5441",
+    "course_code": "DSP-404",
+    "total_access_count": 75,
+    "watch_time_hours": 8.35,
+    "assignment_percentage": 90.8,
+    "last_active_timestamp": "2026-09-07T00:00:00"
+  },
+  {
+    "log_id": 50150,
+    "student_roll_no": "23CSE1A5442",
+    "course_code": "DMW-401",
+    "total_access_count": 22,
+    "watch_time_hours": 30.42,
+    "assignment_percentage": 79.1,
+    "last_active_timestamp": "2026-09-23T00:00:00"
+  },
+  {
+    "log_id": 50151,
+    "student_roll_no": "23CSE1A5442",
+    "course_code": "CAD-403",
+    "total_access_count": 30,
+    "watch_time_hours": 22.96,
+    "assignment_percentage": 92.6,
+    "last_active_timestamp": "2026-09-29T00:00:00"
+  },
+  {
+    "log_id": 50152,
+    "student_roll_no": "23CSE1A5442",
+    "course_code": "THM-402",
+    "total_access_count": 21,
+    "watch_time_hours": 46.66,
+    "assignment_percentage": 80.8,
+    "last_active_timestamp": "2026-09-24T00:00:00"
+  },
+  {
+    "log_id": 50153,
+    "student_roll_no": "23CSE1A5442",
+    "course_code": "PS-405",
+    "total_access_count": 28,
+    "watch_time_hours": 30.06,
+    "assignment_percentage": 64.1,
+    "last_active_timestamp": "2026-10-14T00:00:00"
+  },
+  {
+    "log_id": 50154,
+    "student_roll_no": "23CSE1A5443",
+    "course_code": "THM-402",
+    "total_access_count": 62,
+    "watch_time_hours": 10.38,
+    "assignment_percentage": 67.0,
+    "last_active_timestamp": "2026-09-16T00:00:00"
+  },
+  {
+    "log_id": 50155,
+    "student_roll_no": "23CSE1A5443",
+    "course_code": "DMW-401",
+    "total_access_count": 69,
+    "watch_time_hours": 41.42,
+    "assignment_percentage": 96.9,
+    "last_active_timestamp": "2026-10-11T00:00:00"
+  },
+  {
+    "log_id": 50156,
+    "student_roll_no": "23CSE1A5443",
+    "course_code": "CAD-403",
+    "total_access_count": 93,
+    "watch_time_hours": 34.19,
+    "assignment_percentage": 78.9,
+    "last_active_timestamp": "2026-10-10T00:00:00"
+  },
+  {
+    "log_id": 50157,
+    "student_roll_no": "23CSE1A5443",
+    "course_code": "DSP-404",
+    "total_access_count": 49,
+    "watch_time_hours": 6.73,
+    "assignment_percentage": 66.8,
+    "last_active_timestamp": "2026-09-21T00:00:00"
+  },
+  {
+    "log_id": 50158,
+    "student_roll_no": "23ECE1A5444",
+    "course_code": "CAD-403",
+    "total_access_count": 87,
+    "watch_time_hours": 33.44,
+    "assignment_percentage": 58.0,
+    "last_active_timestamp": "2026-10-12T00:00:00"
+  },
+  {
+    "log_id": 50159,
+    "student_roll_no": "23ECE1A5444",
+    "course_code": "DMW-401",
+    "total_access_count": 18,
+    "watch_time_hours": 9.4,
+    "assignment_percentage": 77.8,
+    "last_active_timestamp": "2026-09-26T00:00:00"
+  },
+  {
+    "log_id": 50160,
+    "student_roll_no": "23ECE1A5444",
+    "course_code": "THM-402",
+    "total_access_count": 68,
+    "watch_time_hours": 24.78,
+    "assignment_percentage": 61.8,
+    "last_active_timestamp": "2026-09-21T00:00:00"
+  },
+  {
+    "log_id": 50161,
+    "student_roll_no": "23ECE1A5444",
+    "course_code": "PS-405",
+    "total_access_count": 56,
+    "watch_time_hours": 38.52,
+    "assignment_percentage": 79.4,
+    "last_active_timestamp": "2026-09-07T00:00:00"
+  },
+  {
+    "log_id": 50162,
+    "student_roll_no": "23ME1A5445",
+    "course_code": "THM-402",
+    "total_access_count": 25,
+    "watch_time_hours": 17.06,
+    "assignment_percentage": 83.5,
+    "last_active_timestamp": "2026-10-03T00:00:00"
+  },
+  {
+    "log_id": 50163,
+    "student_roll_no": "23ME1A5445",
+    "course_code": "AI-406",
+    "total_access_count": 92,
+    "watch_time_hours": 24.29,
+    "assignment_percentage": 66.7,
+    "last_active_timestamp": "2026-10-04T00:00:00"
+  },
+  {
+    "log_id": 50164,
+    "student_roll_no": "23ME1A5445",
+    "course_code": "DMW-401",
+    "total_access_count": 29,
+    "watch_time_hours": 20.17,
+    "assignment_percentage": 59.8,
+    "last_active_timestamp": "2026-10-15T00:00:00"
+  },
+  {
+    "log_id": 50165,
+    "student_roll_no": "23ME1A5446",
+    "course_code": "PS-405",
+    "total_access_count": 65,
+    "watch_time_hours": 47.34,
+    "assignment_percentage": 57.4,
+    "last_active_timestamp": "2026-09-15T00:00:00"
+  },
+  {
+    "log_id": 50166,
+    "student_roll_no": "23ME1A5446",
+    "course_code": "CAD-403",
+    "total_access_count": 53,
+    "watch_time_hours": 45.68,
+    "assignment_percentage": 88.0,
+    "last_active_timestamp": "2026-09-18T00:00:00"
+  },
+  {
+    "log_id": 50167,
+    "student_roll_no": "23ME1A5446",
+    "course_code": "DMW-401",
+    "total_access_count": 52,
+    "watch_time_hours": 19.45,
+    "assignment_percentage": 55.3,
+    "last_active_timestamp": "2026-09-29T00:00:00"
+  },
+  {
+    "log_id": 50168,
+    "student_roll_no": "23ME1A5446",
+    "course_code": "DSP-404",
+    "total_access_count": 37,
+    "watch_time_hours": 10.99,
+    "assignment_percentage": 77.9,
+    "last_active_timestamp": "2026-09-16T00:00:00"
+  },
+  {
+    "log_id": 50169,
+    "student_roll_no": "23EEE1A5447",
+    "course_code": "DMW-401",
+    "total_access_count": 17,
+    "watch_time_hours": 25.04,
+    "assignment_percentage": 58.3,
+    "last_active_timestamp": "2026-09-22T00:00:00"
+  },
+  {
+    "log_id": 50170,
+    "student_roll_no": "23EEE1A5447",
+    "course_code": "DSP-404",
+    "total_access_count": 88,
+    "watch_time_hours": 23.74,
+    "assignment_percentage": 72.4,
+    "last_active_timestamp": "2026-10-12T00:00:00"
+  },
+  {
+    "log_id": 50171,
+    "student_roll_no": "23EEE1A5447",
+    "course_code": "AI-406",
+    "total_access_count": 68,
+    "watch_time_hours": 17.8,
+    "assignment_percentage": 72.4,
+    "last_active_timestamp": "2026-09-22T00:00:00"
+  },
+  {
+    "log_id": 50172,
+    "student_roll_no": "23EEE1A5447",
+    "course_code": "THM-402",
+    "total_access_count": 36,
+    "watch_time_hours": 39.56,
+    "assignment_percentage": 81.6,
+    "last_active_timestamp": "2026-10-16T00:00:00"
+  },
+  {
+    "log_id": 50173,
+    "student_roll_no": "23ME1A5448",
+    "course_code": "DMW-401",
+    "total_access_count": 70,
+    "watch_time_hours": 30.53,
+    "assignment_percentage": 77.5,
+    "last_active_timestamp": "2026-09-27T00:00:00"
+  },
+  {
+    "log_id": 50174,
+    "student_roll_no": "23ME1A5448",
+    "course_code": "DSP-404",
+    "total_access_count": 54,
+    "watch_time_hours": 37.2,
+    "assignment_percentage": 64.5,
+    "last_active_timestamp": "2026-09-12T00:00:00"
+  },
+  {
+    "log_id": 50175,
+    "student_roll_no": "23ME1A5448",
+    "course_code": "AI-406",
+    "total_access_count": 24,
+    "watch_time_hours": 27.2,
+    "assignment_percentage": 59.9,
+    "last_active_timestamp": "2026-10-04T00:00:00"
+  },
+  {
+    "log_id": 50176,
+    "student_roll_no": "23ME1A5448",
+    "course_code": "PS-405",
+    "total_access_count": 39,
+    "watch_time_hours": 44.0,
+    "assignment_percentage": 70.0,
+    "last_active_timestamp": "2026-10-13T00:00:00"
+  },
+  {
+    "log_id": 50177,
+    "student_roll_no": "23CSE1A5449",
+    "course_code": "THM-402",
+    "total_access_count": 47,
+    "watch_time_hours": 13.88,
+    "assignment_percentage": 80.9,
+    "last_active_timestamp": "2026-10-13T00:00:00"
+  },
+  {
+    "log_id": 50178,
+    "student_roll_no": "23CSE1A5449",
+    "course_code": "DMW-401",
+    "total_access_count": 24,
+    "watch_time_hours": 13.03,
+    "assignment_percentage": 88.2,
+    "last_active_timestamp": "2026-10-03T00:00:00"
+  },
+  {
+    "log_id": 50179,
+    "student_roll_no": "23CSE1A5449",
+    "course_code": "AI-406",
+    "total_access_count": 74,
+    "watch_time_hours": 37.56,
+    "assignment_percentage": 87.7,
+    "last_active_timestamp": "2026-09-30T00:00:00"
+  },
+  {
+    "log_id": 50180,
+    "student_roll_no": "23ECE1A5450",
+    "course_code": "AI-406",
+    "total_access_count": 23,
+    "watch_time_hours": 25.43,
+    "assignment_percentage": 82.1,
+    "last_active_timestamp": "2026-09-19T00:00:00"
+  },
+  {
+    "log_id": 50181,
+    "student_roll_no": "23ECE1A5450",
+    "course_code": "CAD-403",
+    "total_access_count": 90,
+    "watch_time_hours": 7.89,
+    "assignment_percentage": 76.8,
+    "last_active_timestamp": "2026-09-21T00:00:00"
+  },
+  {
+    "log_id": 50182,
+    "student_roll_no": "23ECE1A5450",
+    "course_code": "THM-402",
+    "total_access_count": 74,
+    "watch_time_hours": 24.71,
+    "assignment_percentage": 57.4,
+    "last_active_timestamp": "2026-09-20T00:00:00"
+  },
+  {
+    "log_id": 50183,
+    "student_roll_no": "23ECE1A5450",
+    "course_code": "DSP-404",
+    "total_access_count": 24,
+    "watch_time_hours": 32.9,
+    "assignment_percentage": 97.0,
+    "last_active_timestamp": "2026-09-07T00:00:00"
+  },
+  {
+    "log_id": 50184,
+    "student_roll_no": "23ECE1A5451",
+    "course_code": "DSP-404",
+    "total_access_count": 88,
+    "watch_time_hours": 33.2,
+    "assignment_percentage": 68.8,
+    "last_active_timestamp": "2026-10-02T00:00:00"
+  },
+  {
+    "log_id": 50185,
+    "student_roll_no": "23ECE1A5451",
+    "course_code": "PS-405",
+    "total_access_count": 79,
+    "watch_time_hours": 11.91,
+    "assignment_percentage": 57.7,
+    "last_active_timestamp": "2026-09-08T00:00:00"
+  },
+  {
+    "log_id": 50186,
+    "student_roll_no": "23ECE1A5451",
+    "course_code": "DMW-401",
+    "total_access_count": 58,
+    "watch_time_hours": 47.25,
+    "assignment_percentage": 58.6,
+    "last_active_timestamp": "2026-10-13T00:00:00"
+  },
+  {
+    "log_id": 50187,
+    "student_roll_no": "23ECE1A5451",
+    "course_code": "THM-402",
+    "total_access_count": 37,
+    "watch_time_hours": 7.16,
+    "assignment_percentage": 85.4,
+    "last_active_timestamp": "2026-09-30T00:00:00"
+  },
+  {
+    "log_id": 50188,
+    "student_roll_no": "23ECE1A5452",
+    "course_code": "CAD-403",
+    "total_access_count": 64,
+    "watch_time_hours": 22.87,
+    "assignment_percentage": 69.5,
+    "last_active_timestamp": "2026-10-10T00:00:00"
+  },
+  {
+    "log_id": 50189,
+    "student_roll_no": "23ECE1A5452",
+    "course_code": "AI-406",
+    "total_access_count": 21,
+    "watch_time_hours": 39.04,
+    "assignment_percentage": 82.8,
+    "last_active_timestamp": "2026-09-06T00:00:00"
+  },
+  {
+    "log_id": 50190,
+    "student_roll_no": "23ECE1A5452",
+    "course_code": "PS-405",
+    "total_access_count": 57,
+    "watch_time_hours": 9.52,
+    "assignment_percentage": 84.2,
+    "last_active_timestamp": "2026-09-20T00:00:00"
+  },
+  {
+    "log_id": 50191,
+    "student_roll_no": "23ME1A5453",
+    "course_code": "AI-406",
+    "total_access_count": 25,
+    "watch_time_hours": 30.27,
+    "assignment_percentage": 61.1,
+    "last_active_timestamp": "2026-09-24T00:00:00"
+  },
+  {
+    "log_id": 50192,
+    "student_roll_no": "23ME1A5453",
+    "course_code": "PS-405",
+    "total_access_count": 54,
+    "watch_time_hours": 46.63,
+    "assignment_percentage": 85.0,
+    "last_active_timestamp": "2026-09-27T00:00:00"
+  },
+  {
+    "log_id": 50193,
+    "student_roll_no": "23ME1A5453",
+    "course_code": "THM-402",
+    "total_access_count": 31,
+    "watch_time_hours": 30.79,
+    "assignment_percentage": 95.3,
+    "last_active_timestamp": "2026-09-21T00:00:00"
+  },
+  {
+    "log_id": 50194,
+    "student_roll_no": "23ME1A5453",
+    "course_code": "DSP-404",
+    "total_access_count": 86,
+    "watch_time_hours": 21.51,
+    "assignment_percentage": 89.0,
+    "last_active_timestamp": "2026-09-10T00:00:00"
+  },
+  {
+    "log_id": 50195,
+    "student_roll_no": "23ECE1A5454",
+    "course_code": "AI-406",
+    "total_access_count": 17,
+    "watch_time_hours": 20.91,
+    "assignment_percentage": 62.8,
+    "last_active_timestamp": "2026-09-15T00:00:00"
+  },
+  {
+    "log_id": 50196,
+    "student_roll_no": "23ECE1A5454",
+    "course_code": "DSP-404",
+    "total_access_count": 58,
+    "watch_time_hours": 45.78,
+    "assignment_percentage": 75.9,
+    "last_active_timestamp": "2026-09-16T00:00:00"
+  },
+  {
+    "log_id": 50197,
+    "student_roll_no": "23ECE1A5454",
+    "course_code": "CAD-403",
+    "total_access_count": 32,
+    "watch_time_hours": 12.09,
+    "assignment_percentage": 67.7,
+    "last_active_timestamp": "2026-09-08T00:00:00"
+  },
+  {
+    "log_id": 50198,
+    "student_roll_no": "23ECE1A5455",
+    "course_code": "AI-406",
+    "total_access_count": 91,
+    "watch_time_hours": 21.51,
+    "assignment_percentage": 62.0,
+    "last_active_timestamp": "2026-10-16T00:00:00"
+  },
+  {
+    "log_id": 50199,
+    "student_roll_no": "23ECE1A5455",
+    "course_code": "CAD-403",
+    "total_access_count": 94,
+    "watch_time_hours": 39.88,
+    "assignment_percentage": 62.1,
+    "last_active_timestamp": "2026-09-30T00:00:00"
+  },
+  {
+    "log_id": 50200,
+    "student_roll_no": "23ECE1A5455",
+    "course_code": "THM-402",
+    "total_access_count": 20,
+    "watch_time_hours": 22.96,
+    "assignment_percentage": 84.1,
+    "last_active_timestamp": "2026-09-17T00:00:00"
+  },
+  {
+    "log_id": 50201,
+    "student_roll_no": "23ECE1A5456",
+    "course_code": "PS-405",
+    "total_access_count": 83,
+    "watch_time_hours": 15.66,
+    "assignment_percentage": 96.5,
+    "last_active_timestamp": "2026-10-02T00:00:00"
+  },
+  {
+    "log_id": 50202,
+    "student_roll_no": "23ECE1A5456",
+    "course_code": "CAD-403",
+    "total_access_count": 39,
+    "watch_time_hours": 21.13,
+    "assignment_percentage": 95.7,
+    "last_active_timestamp": "2026-09-30T00:00:00"
+  },
+  {
+    "log_id": 50203,
+    "student_roll_no": "23ECE1A5456",
+    "course_code": "DSP-404",
+    "total_access_count": 74,
+    "watch_time_hours": 38.2,
+    "assignment_percentage": 88.5,
+    "last_active_timestamp": "2026-10-04T00:00:00"
+  },
+  {
+    "log_id": 50204,
+    "student_roll_no": "23ECE1A5456",
+    "course_code": "DMW-401",
+    "total_access_count": 82,
+    "watch_time_hours": 23.29,
+    "assignment_percentage": 62.0,
+    "last_active_timestamp": "2026-09-14T00:00:00"
+  },
+  {
+    "log_id": 50205,
+    "student_roll_no": "23ECE1A5457",
+    "course_code": "CAD-403",
+    "total_access_count": 62,
+    "watch_time_hours": 29.07,
+    "assignment_percentage": 59.4,
+    "last_active_timestamp": "2026-10-05T00:00:00"
+  },
+  {
+    "log_id": 50206,
+    "student_roll_no": "23ECE1A5457",
+    "course_code": "DMW-401",
+    "total_access_count": 30,
+    "watch_time_hours": 17.62,
+    "assignment_percentage": 87.8,
+    "last_active_timestamp": "2026-09-19T00:00:00"
+  },
+  {
+    "log_id": 50207,
+    "student_roll_no": "23ECE1A5457",
+    "course_code": "DSP-404",
+    "total_access_count": 72,
+    "watch_time_hours": 43.98,
+    "assignment_percentage": 61.3,
+    "last_active_timestamp": "2026-09-29T00:00:00"
+  },
+  {
+    "log_id": 50208,
+    "student_roll_no": "23CSE1A5458",
+    "course_code": "THM-402",
+    "total_access_count": 18,
+    "watch_time_hours": 23.13,
+    "assignment_percentage": 72.0,
+    "last_active_timestamp": "2026-09-25T00:00:00"
+  },
+  {
+    "log_id": 50209,
+    "student_roll_no": "23CSE1A5458",
+    "course_code": "DSP-404",
+    "total_access_count": 45,
+    "watch_time_hours": 21.91,
+    "assignment_percentage": 58.5,
+    "last_active_timestamp": "2026-09-16T00:00:00"
+  },
+  {
+    "log_id": 50210,
+    "student_roll_no": "23CSE1A5458",
+    "course_code": "CAD-403",
+    "total_access_count": 18,
+    "watch_time_hours": 19.04,
+    "assignment_percentage": 59.3,
+    "last_active_timestamp": "2026-10-13T00:00:00"
+  },
+  {
+    "log_id": 50211,
+    "student_roll_no": "23ECE1A5459",
+    "course_code": "THM-402",
+    "total_access_count": 75,
+    "watch_time_hours": 35.08,
+    "assignment_percentage": 61.0,
+    "last_active_timestamp": "2026-10-02T00:00:00"
+  },
+  {
+    "log_id": 50212,
+    "student_roll_no": "23ECE1A5459",
+    "course_code": "AI-406",
+    "total_access_count": 72,
+    "watch_time_hours": 31.65,
+    "assignment_percentage": 94.0,
+    "last_active_timestamp": "2026-09-03T00:00:00"
+  },
+  {
+    "log_id": 50213,
+    "student_roll_no": "23ECE1A5459",
+    "course_code": "DMW-401",
+    "total_access_count": 47,
+    "watch_time_hours": 14.67,
+    "assignment_percentage": 61.4,
+    "last_active_timestamp": "2026-10-10T00:00:00"
+  },
+  {
+    "log_id": 50214,
+    "student_roll_no": "23ECE1A5459",
+    "course_code": "PS-405",
+    "total_access_count": 82,
+    "watch_time_hours": 23.49,
+    "assignment_percentage": 88.4,
+    "last_active_timestamp": "2026-09-17T00:00:00"
+  },
+  {
+    "log_id": 50215,
+    "student_roll_no": "23EEE1A5460",
+    "course_code": "DMW-401",
+    "total_access_count": 94,
+    "watch_time_hours": 24.93,
+    "assignment_percentage": 59.8,
+    "last_active_timestamp": "2026-10-03T00:00:00"
+  },
+  {
+    "log_id": 50216,
+    "student_roll_no": "23EEE1A5460",
+    "course_code": "AI-406",
+    "total_access_count": 91,
+    "watch_time_hours": 28.28,
+    "assignment_percentage": 82.2,
+    "last_active_timestamp": "2026-10-08T00:00:00"
+  },
+  {
+    "log_id": 50217,
+    "student_roll_no": "23EEE1A5460",
+    "course_code": "THM-402",
+    "total_access_count": 45,
+    "watch_time_hours": 36.04,
+    "assignment_percentage": 67.5,
+    "last_active_timestamp": "2026-09-02T00:00:00"
+  },
+  {
+    "log_id": 50218,
+    "student_roll_no": "23EEE1A5460",
+    "course_code": "DSP-404",
+    "total_access_count": 93,
+    "watch_time_hours": 20.49,
+    "assignment_percentage": 79.5,
+    "last_active_timestamp": "2026-09-13T00:00:00"
+  }
+]

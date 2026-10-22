@@ -1,0 +1,3 @@
+Schema Type,Join Depth,Total Time (250 runs),Avg Latency per Query,Performance
+Star Schema (Denormalized),1 Join (Fact <-> Dim_Course),44.95 ms,0.180 ms,Baseline (Fastest)
+Snowflake Schema (Normalized),3 Joins (Fact <-> Course <-> Dept <-> College),47.99 ms,0.192 ms,1.07x slower due to join overhead

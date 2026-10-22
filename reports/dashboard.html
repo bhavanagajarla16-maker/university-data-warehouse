@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University Enterprise Data Warehouse & OLAP Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --primary: #1e3a8a;
+            --secondary: #0d9488;
+            --accent: #f59e0b;
+            --bg: #f8fafc;
+            --card-bg: #ffffff;
+            --text-main: #0f172a;
+            --text-muted: #64748b;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--bg);
+            color: var(--text-main);
+        }
+        header {
+            background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%);
+            color: white;
+            padding: 24px 32px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        header h1 { margin: 0 0 8px 0; font-size: 24px; font-weight: 700; }
+        header p { margin: 0; opacity: 0.9; font-size: 14px; }
+        .meta-bar {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            background: #ffffff;
+            padding: 16px 32px;
+            border-bottom: 1px solid #e2e8f0;
+            font-size: 14px;
+        }
+        .meta-item strong { color: var(--primary); }
+        .container {
+            max-width: 1240px;
+            margin: 24px auto;
+            padding: 0 20px;
+        }
+        .grid-kpi {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+        .kpi-card {
+            background: var(--card-bg);
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            border-left: 4px solid var(--secondary);
+        }
+        .kpi-card h3 { margin: 0 0 6px 0; font-size: 13px; text-transform: uppercase; color: var(--text-muted); }
+        .kpi-card .value { font-size: 26px; font-weight: 700; color: var(--text-main); }
+        .grid-charts {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 20px;
+            margin-bottom: 24px;
+        }
+        .chart-card {
+            background: var(--card-bg);
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+        }
+        .chart-card h2 { margin: 0 0 16px 0; font-size: 18px; color: var(--primary); }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+        th, td {
+            text-align: left;
+            padding: 10px 14px;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        th { background: #f1f5f9; color: #334155; font-weight: 600; }
+        tr:hover { background-color: #f8fafc; }
+        .badge {
+            display: inline-block;
+            padding: 3px 8px;
+            border-radius: 9999px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        .badge-green { background: #dcfce7; color: #15803d; }
+        .badge-blue { background: #dbeafe; color: #1e40af; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>University Enterprise Data Warehouse & OLAP Console</h1>
+    <p>Project: ETL/ELT Pipeline Optimization for Heterogeneous Sources via Star/Snowflake Schema</p>
+</header>
+
+<div class="meta-bar">
+    <div class="meta-item"><strong>Roll No:</strong> 23ME1A5449</div>
+    <div class="meta-item"><strong>Batch / S.No:</strong> 110</div>
+    <div class="meta-item"><strong>Course:</strong> Data Mining & Warehousing</div>
+    <div class="meta-item"><strong>Faculty Guide:</strong> Mr. K. Naresh Babu</div>
+    <div class="meta-item"><strong>Status:</strong> <span class="badge badge-green">Pipeline Synced</span></div>
+</div>
+
+<div class="container">
+    <!-- KPI Row -->
+    <div class="grid-kpi">
+        <div class="kpi-card" style="border-left-color: #3b82f6;">
+            <h3>Heterogeneous Sources</h3>
+            <div class="value">3 Silos</div>
+            <small style="color: #64748b;">CSV (SIS), JSON (LMS), SQLite (ERP)</small>
+        </div>
+        <div class="kpi-card" style="border-left-color: #10b981;">
+            <h3>Fact Records Consolidated</h3>
+            <div class="value">136 Records</div>
+            <small style="color: #64748b;">Zero Data Loss Verification</small>
+        </div>
+        <div class="kpi-card" style="border-left-color: #f59e0b;">
+            <h3>Star Join Latency</h3>
+            <div class="value">0.33 ms</div>
+            <small style="color: #64748b;">vs 0.42 ms Snowflake (1.26x Faster)</small>
+        </div>
+        <div class="kpi-card" style="border-left-color: #8b5cf6;">
+            <h3>SCD Modeling</h3>
+            <div class="value">Type 2</div>
+            <small style="color: #64748b;">Historical & Current Versioning</small>
+        </div>
+    </div>
+
+    <!-- Charts Row -->
+    <div class="grid-charts">
+        <div class="chart-card">
+            <h2>Department-Wise Performance Roll-Up</h2>
+            <canvas id="deptChart" height="220"></canvas>
+        </div>
+        <div class="chart-card">
+            <h2>Schema Query Latency Benchmark (ms)</h2>
+            <canvas id="benchmarkChart" height="220"></canvas>
+        </div>
+    </div>
+
+    <!-- Candidate Spotlight Table -->
+    <div class="chart-card" style="margin-bottom: 24px;">
+        <h2>Candidate Drill-Down: Roll No 23ME1A5449 (Bhavani Prasad K.)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Course Code</th>
+                    <th>Course Title</th>
+                    <th>Internal (30)</th>
+                    <th>External (70)</th>
+                    <th>Total (100)</th>
+                    <th>Grade Points</th>
+                    <th>Attendance %</th>
+                    <th>LMS Assignment %</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>CAD-403</strong></td>
+                    <td>Computer Aided Design & Manufacturing</td>
+                    <td>28.0</td>
+                    <td>65.0</td>
+                    <td><strong>93.0</strong></td>
+                    <td><span class="badge badge-green">10.0 (O)</span></td>
+                    <td>75.9%</td>
+                    <td>85.1%</td>
+                </tr>
+                <tr>
+                    <td><strong>DMW-401</strong></td>
+                    <td>Data Mining & Warehousing</td>
+                    <td>26.0</td>
+                    <td>50.0</td>
+                    <td><strong>76.0</strong></td>
+                    <td><span class="badge badge-blue">8.0 (A)</span></td>
+                    <td>82.5%</td>
+                    <td>98.8%</td>
+                </tr>
+                <tr>
+                    <td><strong>THM-402</strong></td>
+                    <td>Applied Thermodynamics</td>
+                    <td>23.0</td>
+                    <td>66.0</td>
+                    <td><strong>89.0</strong></td>
+                    <td><span class="badge badge-green">9.0 (A+)</span></td>
+                    <td>95.5%</td>
+                    <td>87.7%</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Architecture & Dimensional Details -->
+    <div class="grid-charts">
+        <div class="chart-card">
+            <h2>Star Schema Dimensional Architecture</h2>
+            <p style="font-size: 14px; line-height: 1.6; color: #475569;">
+                <strong>Central Fact:</strong> <code>Fact_StudentPerformance</code><br>
+                <strong>Grain:</strong> One record per student per course per exam session.<br>
+                <strong>Conformed Dimensions:</strong> <code>Dim_Student</code>, <code>Dim_Course</code>, <code>Dim_Faculty</code>, <code>Dim_AcademicTime</code>.<br>
+                <strong>Key Advantage:</strong> Single-hop star joins reduce CPU and I/O latency, perfect for enterprise OLAP reporting.
+            </p>
+        </div>
+        <div class="chart-card">
+            <h2>Snowflake Schema Comparison</h2>
+            <p style="font-size: 14px; line-height: 1.6; color: #475569;">
+                <strong>Normalized Hierarchies:</strong><br>
+                <code>Dim_College</code> &rarr; <code>Dim_Department</code> &rarr; <code>Dim_Course</code> / <code>Dim_Faculty</code>.<br>
+                <strong>Key Advantage:</strong> 3NF normalization eliminates redundancy.<br>
+                <strong>Trade-Off:</strong> Multi-level relational joins introduce measurable query latency overhead for complex aggregations.
+            </p>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Department Roll-up Chart
+    const ctxDept = document.getElementById('deptChart').getContext('2d');
+    new Chart(ctxDept, {
+        type: 'bar',
+        data: {
+            labels: ['ECE', 'EEE', 'Mechanical (ME)', 'CSE'],
+            datasets: [
+                {
+                    label: 'Average Marks',
+                    data: [74.94, 74.89, 73.03, 71.19],
+                    backgroundColor: '#3b82f6'
+                },
+                {
+                    label: 'Attendance %',
+                    data: [82.08, 80.57, 77.49, 77.57],
+                    backgroundColor: '#10b981'
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            scales: {
+                y: { beginAtZero: false, min: 60, max: 100 }
+            }
+        }
+    });
+
+    // Benchmark Chart
+    const ctxBench = document.getElementById('benchmarkChart').getContext('2d');
+    new Chart(ctxBench, {
+        type: 'bar',
+        data: {
+            labels: ['Star Schema (Denormalized)', 'Snowflake Schema (Normalized)'],
+            datasets: [{
+                label: 'Average Query Latency (ms)',
+                data: [0.335, 0.422],
+                backgroundColor: ['#0d9488', '#f59e0b']
+            }]
+        },
+        options: {
+            responsive: true,
+            indexAxis: 'y',
+            scales: {
+                x: { beginAtZero: true, max: 0.6 }
+            }
+        }
+    });
+</script>
+
+</body>
+</html>
